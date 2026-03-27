@@ -6,7 +6,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 
-Secure Cartography is a network discovery tool that crawls your infrastructure via SNMP and SSH, collecting CDP/LLDP neighbor information to automatically generate topology maps. Built by a network engineer, for network engineers.
+Secure Cartography is a network discovery tool that crawls your infrastructure via SNMP and SSH, collecting CDP/LLDP neighbor information to automatically generate topology maps. Built by a network engineer, for network engineers. 
+
+If you are interested in a non-python native application for network maps see [Secure Cartography  JS](https://github.com/scottpeterman/secure_cartography_js)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/scottpeterman/secure_cartography/refs/heads/main/screenshots/slides2.gif" alt="Secure Cartography - Cyber Theme" width="800">
